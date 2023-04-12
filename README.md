@@ -1,5 +1,5 @@
 # bprenamer
-A file sequence renamer built with python and pyqt6
+A file sequence renamer built with Python 3.1 and pyqt6
 
 TODO: Implement the start frame sequence number. (Currently defaults to 0001)
 
